@@ -16,3 +16,10 @@ git branch thao tac voi cac nhanh
  git branch <ten nhanh moi> tao nhanh moi tai commit hien tai
  git branch <ten nhanh moi> <hash> or <tag> tao nhanh moi tai 1 commit cu the
  git branch -m <name> doi ten nhanh hien tai..
+ git branch -d <ten nhanh> xoa nhanh cuc bo
+ git branch -D <ten nhanh> buoc xoa nhanh bat ke da duoc merge hay chua
+
+git log --oneline hien thi thong tin ve commit truc thuoc nhanh hien tai.
+
+git checkout chuyen HEAD den 1 branch hoac 1 commit.
+
