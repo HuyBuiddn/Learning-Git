@@ -23,4 +23,3 @@ git log --oneline hien thi thong tin ve commit truc thuoc nhanh hien tai.
 
 git checkout chuyen HEAD den 1 branch hoac 1 commit.
 
-
